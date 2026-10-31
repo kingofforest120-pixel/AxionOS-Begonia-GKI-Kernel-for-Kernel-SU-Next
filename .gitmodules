@@ -1,3 +1,6 @@
 [submodule "kernel_xiaomi_mt6785"]
 	path = kernel_xiaomi_mt6785
 	url = https://github.com/Saikrishna1504/kernel_xiaomi_mt6785.git
+[submodule "KernelSU-Next"]
+	path = KernelSU-Next
+	url = https://github.com/KernelSU-Next/KernelSU-Next
